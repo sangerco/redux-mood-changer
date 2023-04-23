@@ -1,0 +1,13 @@
+#kaomoji {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+#buttonContainer {
+    text-align: center;
+}
+
+#buttonContainer button {
+    margin: 3px;
+}
